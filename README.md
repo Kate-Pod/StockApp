@@ -14,4 +14,6 @@ Here I'm using *yfinance* lib to get the market data and *streamlit* for creatin
 
 ### SP500StockPrices
 
+![Безымянный2](https://user-images.githubusercontent.com/75089953/125307797-07e4ac80-e339-11eb-83bc-9742d10bf4a0.png)
+
 
