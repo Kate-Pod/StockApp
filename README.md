@@ -9,4 +9,4 @@ Here I'm using *yfinance* lib to get the market data and *streamlit* for creatin
 
 
 
-*To watch script in action you can install streamlit in cmd and run the script.*
+*To watch script in action you can install streamlit in cmd and run the script. (streamlit run app.py)*
