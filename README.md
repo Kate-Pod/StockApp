@@ -1,5 +1,5 @@
 ### StockApp
-Here I'm using #### yfinance lib to get the market data and #### streamlit for creating an interactive data app showing Google daily stock prices from 2010-5-31 to 2021-5-31.
+Here I'm using *yfinance* lib to get the market data and *streamlit* for creating an interactive data app showing Google daily stock prices from 2010-5-31 to 2021-5-31.
 
 
 
